@@ -110,7 +110,7 @@ dependencies {
 Crux began as a fork of [Snacktory](http://github.com/karussell/snacktory) with the goal of making it more performant on Android devices, 
 but it has quickly gained several new features that are not available in Snacktory.   
 
-Snacktory (and thus Crux) borrow ideas and test cases from [Goose](https://github.com/GravityLabs/goose) 
+Snacktory (and therefore Crux) borrow ideas and test cases from [Goose](https://github.com/GravityLabs/goose) 
 and [JReadability](https://github.com/ifesdjeen/jReadability).
 
 # License
